@@ -10,6 +10,6 @@ requests:
     path:
       - "{{BaseURL}}/irj/portal"
     matchers:
-      - type : word
+      - type: word
         words:
-                - "NetWeaver"
+          - "NetWeaver"
